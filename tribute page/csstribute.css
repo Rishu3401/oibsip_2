@@ -1,0 +1,72 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: rgb(10, 10, 10, 0.5);
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  #main {
+    font-family: Gentium basic;
+    font-size: 2em;
+    text-align: center;
+  }
+  
+  #title {
+    margin-left: 8em;
+    margin-right: 8em;
+    font-size: 4vw;
+  }
+  
+  #img-caption {
+    margin-left: 8em;
+    margin-right: 8em;
+    font-size: 2.5vw;
+  }
+  
+  #sig {
+    max-width: 20%;
+    height: auto;
+    margin-top: -10px;
+  }
+  
+  #image {
+    max-width: 50%;
+    height: auto;
+    border: 3px solid black;
+    border-radius: 20px;
+  }
+  
+  #tribute-info {
+    margin-left: 8em;
+    margin-right: 8em;
+    text-align: left;
+    font-size: 2vw;
+  }
+  
+  #tribute-link:hover {
+    background-color: darkgray;
+  }
+  
+  #tribute-link:visited {
+    color: blue;
+  }
+  
+  .tribute-link:hover {
+    background-color: darkgray;
+  }
+  
+  .tribute-link:visited {
+    color: blue;
+  }
+  
+  .container li {
+    padding: 0.5em;
+  }
+  
+  .quote {
+    margin: 3em 8em;
+    font-size: 2vw;
+    color: darkgray;
+  }
